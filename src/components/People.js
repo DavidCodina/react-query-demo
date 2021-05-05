@@ -33,7 +33,7 @@ const People = () => {
 
   return (
     <React.Fragment>
-      <h2 className="text-center">People</h2>
+      <h2 className="mb-3 text-center">People</h2>
 
 
       <div className="d-flex flex-wrap justify-content-center align-items-center mb-3">
